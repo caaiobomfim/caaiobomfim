@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/caaiobomfim" title="Perfil do Caio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caaiobomfim&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caaiobomfim&theme=dark&show_icons=true" />
 </a>
 
 ## Onde me encontrar
